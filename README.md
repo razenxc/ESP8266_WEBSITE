@@ -1,7 +1,7 @@
 # ESP8266 Web Server/Site
 ## Setup arduino ide for esp8266
 - Go to File > Preferences
-- Enter Enter `http://arduino.esp8266.com/stable/package_esp8266com_index.json` into the “Additional Boards Manager URLs” field as shown in the figure below. Then, click the “OK” button
+- Enter `http://arduino.esp8266.com/stable/package_esp8266com_index.json` into the “Additional Boards Manager URLs” field as shown in the figure below. Then, click the “OK” button
 
 * Note: if you already have the ESP32 boards URL, you can separate the URLs with a comma as follows: `https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json`
 
